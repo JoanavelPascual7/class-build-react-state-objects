@@ -27,4 +27,25 @@ export const dogsData = [
     grade: "80",
     notes: "It was his first day and he hid under a chair for most of it.",
   },
+  {
+    id: 22,
+    name: "Joanavel",
+    present: true,
+    grade: "75",
+    notes: "Joanavel was very playful today and got along well with the other dogs.",
+  },
+  {
+    id: 87,
+    name: "Jayleis",
+    present: false,
+    grade: "85",
+    notes: "Jayleis was a bit timid at first but warmed up to us quickly.",
+  },
+  {
+    id: 91,
+    name: "Walter",
+    present: true,
+    grade: "70",
+    notes: "Walter kept trying to escape his crate but eventually settled down.",
+  },
 ];
